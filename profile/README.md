@@ -1,6 +1,6 @@
 # Welcome to the IEEE uOttawa GitHub Page
 
-<img src="assets\ieee_uottawa_logo.png">
+<img src="https://github.com/ieee-uottawa/.github/blob/master/assets/ieee_uottawa_logo.png">
 
 <br/>
 
