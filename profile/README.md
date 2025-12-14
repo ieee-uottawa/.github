@@ -6,4 +6,4 @@
 
 <br/>
 
-The IEEE University of Ottawa GitHub page is a home for past workshops, current office projects and the open source websites and tools the student branch offers. For more information, please reach out to a memeber of the IEEE uOttawa Executive team or check out  https://ieeeuottawa.ca/
+The IEEE University of Ottawa GitHub page is a home for past workshops, current office projects and the open source websites and tools the student branch offers. For more information, please reach out to a member of the IEEE uOttawa Executive team or check out  https://ieeeuottawa.ca/
